@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lighucrec.github.io/sitemap.html.gz
+Sitemap: https://lighucrec.github.io/app/sitemap.html.gz
+Sitemap: https://lighucrec.github.io/assets/sitemap.html.gz
+Sitemap: https://lighucrec.github.io/css/sitemap.html.gz
+Sitemap: https://lighucrec.github.io/data/sitemap.html.gz
+Sitemap: https://lighucrec.github.io/includes/sitemap.html.gz
+Sitemap: https://lighucrec.github.io/item/sitemap.html.gz
+Sitemap: https://lighucrec.github.io/src/sitemap.html.gz
